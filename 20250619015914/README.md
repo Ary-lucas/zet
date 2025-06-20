@@ -1,6 +1,6 @@
 # How to make a zettel entry
 
-This is the body of the zettel (wich meand "slip")
+This is the body of the zettel (wich means "slip")
 
 * First bullet
 * Second bullet
@@ -22,7 +22,7 @@ func main() {
 
 What if I want *italic* or **bold** or ***bolditalic***?
 
-how about something that look like `code`?
+How about something that look like `code`?
 
 And when I have a URL I want it to print also so I always write it out like this:
 
