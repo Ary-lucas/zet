@@ -30,4 +30,4 @@ https://github.com/Ary-lucas
 
 * I put references at the bottom.
 
-    #zettle #general #notes
+    #zettle #general #notes #markdown
